@@ -75,7 +75,7 @@ To build the app run:
 
     make
 
-in the app directory to fetch all dependencies and compile the JavaScript. The News app uses Composer for PHP dependencies, Gulp for building the JavaScript "binary" and Bower/npm as JavaScript package manager. For more information on JavaScript development [check out the README.md in the js folder](https://github.com/nextcloud/news/blob/master/js/README.md)
+in the app directory to fetch all dependencies and compile the JavaScript. The News app uses Composer for PHP dependencies, Gulp for building the JavaScript "binary" and Bower/npm as JavaScript package manager. For more information on JavaScript development [check out the README.md in the src folder](https://github.com/nextcloud/news/blob/master/src/README.md)
 
 For running all tests suites you can run:
 
